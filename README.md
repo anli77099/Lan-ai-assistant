@@ -24,7 +24,7 @@
 
 
 ## 📷 界面展示
-![Uploading image.png…]()
+<img width="2505" height="1095" alt="image" src="https://github.com/user-attachments/assets/cb5b59e0-faa1-4a6e-9b37-f95b4c0597a9" />
 
 
 ## 🔧 本地安装（适合开发者）
